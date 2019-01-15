@@ -1,3 +1,6 @@
+[![CircleCI](https://circleci.com/gh/98789/btc2fiat.svg?style=shield)](https://circleci.com/gh/98789/btc2fiat)
+
+
 # btc2fiat
 
 Get to know how much was worth a certain amount of BTC in your favorite fiat currency.
