@@ -21,4 +21,4 @@ jobs:
       - run:
           command: |
             . venv/bin/activate
-            python tests/test.py
+            cd tests && python test.py
